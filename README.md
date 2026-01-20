@@ -51,8 +51,10 @@ npm install
 
 Create a .env file in the project root:
 
-Code snippet
+```Code snippet
 VITE_API_BASE_URL=http://localhost:5000
+```
+---
 Ensure this matches your backend server URL.
 
 ## ▶️ Run the Frontend
