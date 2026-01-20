@@ -67,10 +67,11 @@ The app will be available at:
 http://localhost:5173
 ```
 
+---
 
 ## 🧭 Application Pages
 
-# 🏠 Home Page
+## 🏠 Home Page
 
 Ask questions over ingested knowledge.
 
@@ -81,7 +82,7 @@ Shows source chunks with similarity scores.
 Ingest content via raw text or URL inputs.
 
 
-# 📋 View Saved Content Page
+## 📋 View Saved Content Page
 
 Lists all stored items in the database.
 
