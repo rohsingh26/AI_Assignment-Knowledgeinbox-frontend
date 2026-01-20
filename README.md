@@ -16,7 +16,13 @@ Users can:
 Before running the frontend, **make sure these services are already running**:
 
 1. **MiniLM Embedding Server (Python – Flask/FastAPI)**
+```bash
+https://github.com/rohsingh26/AI_Assignment-Knowledgeinbox-Local-LLM
+```
 2. **Backend API (Node.js + Express)**
+```bash
+https://github.com/rohsingh26/AI_Assignment-Knowledgeinbox-backend
+```
 
 The frontend depends entirely on backend APIs and will show a blank or error state if they are not running.
 
